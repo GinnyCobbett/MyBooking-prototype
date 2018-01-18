@@ -1,0 +1,44 @@
+
+html {
+  font-size: 62.5%;
+  height: 100%;
+}
+
+body {
+  font: 1.4em/1.5em BlinkMacSystemFont, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: linear-gradient(to bottom, #02abe4 0%, #fff 25em, #fff 100%);
+  background-color: #ffffff;
+  background-repeat: no-repeat;
+  color: #313137;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover, a:focus {
+  text-decoration: none;
+}
+
+.header {
+  padding-top: 1em;
+  border-bottom: 3px solid #fedc07;
+}
+
+.container {
+  color: #17317f;
+  max-width: 780px;
+  padding: 0;
+  margin: auto;
+}
+
+.header__logo {
+  background-image: url('../media/images/otb-logo-uk-blue.svg');
+  background-position: left top;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  color: transparent!important;
+  display: block;
+  height: 4.8em;
+  width: 9em;
+}
