@@ -1,6 +1,5 @@
 
 html {
-  font-size: 62.5%;
   height: 100%;
 }
 
@@ -41,4 +40,8 @@ a:hover, a:focus {
   display: block;
   height: 4.8em;
   width: 9em;
+}
+
+.booking-nav {
+  
 }
